@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c72001d9fb782033c8e6d06c0ce2ed8c",
+  "assets/AssetManifest.json": "e499c19bb4c32a6d2a734cfec1134478",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/Bicyclette-Black.ttf": "935eb8c0593ebd0f6874cf46a21c36e1",
 "assets/assets/fonts/Bicyclette-Bold.ttf": "e9d0f53cb1b3802c9c5674488e4b6931",
@@ -40,6 +40,8 @@ const RESOURCES = {
 "assets/assets/icons/Pagoprocesoin.svg": "a3fb5c0bedc3ae9ed1d3db0409867029",
 "assets/assets/icons/Pagorecibido.png": "bb741a7d5ccae844772222724ae350b5",
 "assets/assets/icons/Pagorecibido.svg": "4389886fb4f2eb3a33dde19c2262e0c2",
+"assets/assets/images/BDLogo2.svg": "6a382d335ab395e27a4e38264238a5f9",
+"assets/assets/images/BDLogo3.svg": "39d581b35e085d6e6cb6afd5988734d6",
 "assets/assets/images/bd_logo.png": "238560fcb818260828661b804c19b71b",
 "assets/assets/images/bg1.png": "fa28f3b5b72bcf0c7279722d6b030661",
 "assets/assets/images/bgLogin.png": "3f37c2896cf471672d8835f437df56f9",
@@ -53,11 +55,14 @@ const RESOURCES = {
 "assets/assets/lottie_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/pdfs/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/pdfs/mentiras.pdf": "317b53ce5d812781d0095f793a0daef9",
+"assets/assets/rive_animations/completado.riv": "563707b181a392127691dfb57f687611",
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/assets/rive_animations/squares.riv": "fd1909402118aa9e403801629357b71d",
+"assets/assets/rive_animations/squaresylogo.riv": "da95cd052e39832d2735c39d4dfedad7",
 "assets/assets/videos/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "d3aa5e828131a393b81adb3816f2c733",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "242803fefd9aea89fdcfc3b1ed769aad",
+"assets/NOTICES": "e99bb4754d18a837a199bb1af8d95cce",
 "assets/packages/country_icons/icons/flags/png/2.5x/ad.png": "9ab17d57db08e440f27c65f0b29bd520",
 "assets/packages/country_icons/icons/flags/png/2.5x/ae.png": "fd9b156fd27b63807fb4c0755cd2a073",
 "assets/packages/country_icons/icons/flags/png/2.5x/af.png": "974a6eb9adf8fdae81660d4e5dc5ba2e",
@@ -842,11 +847,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4214e23c4a74792fb46ed12b1df8ab23",
-"/": "4214e23c4a74792fb46ed12b1df8ab23",
+"index.html": "d9fe9ae11716f68c343129c1a742cfc8",
+"/": "d9fe9ae11716f68c343129c1a742cfc8",
 "js/pdf.js": "f33791e232e5a3443951e49cfc21f55c",
 "js/pdf.worker.min.js": "a4fab6c4601042d77d85c2e89ef4c3e3",
-"main.dart.js": "df6b7e8f0d6b132d18bd6245647091bc",
+"main.dart.js": "48975ac9cc1d6a907be60eec8dddf280",
 "manifest.json": "a7f0d160bb521192e7ed154a4752e4a9",
 "version.json": "f41613f78ce45f3bb1a6e936c52b5d16"
 };
